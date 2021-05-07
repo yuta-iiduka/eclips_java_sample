@@ -1,2 +1,3 @@
 module JavaSample {
+	exports sample;
 }
