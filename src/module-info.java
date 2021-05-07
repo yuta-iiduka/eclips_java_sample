@@ -1,3 +1,0 @@
-module JavaSample {
-	exports sample;
-}
